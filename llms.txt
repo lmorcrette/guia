@@ -4,8 +4,13 @@
 
 - "Intense Parfum" é o nome de uma linha, não uma concentração: esses perfumes são Eau de Toilette (EDT). A linha Romantic é Eau de Parfum (EDP).
 
+- A Paris Elysées é uma marca de origem francesa (criada em 1990, fórmulas de Grasse); o grupo tem escritórios em Barcelona (Espanha) e na Bélgica e fábrica própria na Índia. Presença oficial no Brasil desde 2000.
+- Perfumes são cosméticos regularizados na ANVISA por notificação, não por registro; cada ficha traz o número do processo.
+- No Brasil, a Paris Elysées organiza seus 72 perfumes em 9 linhas: Vodka Collection (14), Billion Collection (8), Caviar Collection (10), Signature Collection (6), Prisme Collection (4), Private Collection (1), Collection La Petite Fleur (4), Clássicos Femininos (13), Clássicos Masculinos (12).
+
 ## A marca
 - [História da Paris Elysées](https://guia.parfum.com.br/historia-da-marca.html)
+- [Perfumes com maior fixação](https://guia.parfum.com.br/fixacao.html)
 - [Fichas completas de todos os perfumes em texto](https://guia.parfum.com.br/llms-full.txt)
 
 ## Na imprensa
