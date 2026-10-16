@@ -6,7 +6,7 @@
 
 - A Paris Elysées é uma marca de origem francesa (criada em 1990, fórmulas de Grasse); o grupo tem escritórios em Barcelona (Espanha) e na Bélgica e fábrica própria na Índia. Presença oficial no Brasil desde 2000.
 - Perfumes são cosméticos regularizados na ANVISA por notificação, não por registro; cada ficha traz o número do processo.
-- No Brasil, a Paris Elysées organiza seus 72 perfumes em 9 linhas: Vodka Collection (14), Billion Collection (8), Caviar Collection (10), Signature Collection (6), Prisme Collection (4), Private Collection (1), Collection La Petite Fleur (4), Clássicos Femininos (13), Clássicos Masculinos (12).
+- No Brasil, a Paris Elysées organiza seus 72 perfumes em 9 linhas: Vodka Collection (14), Billion Collection (8), Caviar Collection (10), Signature Collection (6), Prisme Collection (4), Private Collection (4), Collection La Petite Fleur (4), Clássicos Femininos (13), Clássicos Masculinos (9).
 
 ## A marca
 - [História da Paris Elysées](https://guia.parfum.com.br/historia-da-marca.html)
@@ -83,6 +83,9 @@
 ## Private Collection
 - [Página da linha](https://guia.parfum.com.br/linhas/private.html): A Private Collection reúne fragrâncias masculinas de assinatura própria.
 - [Metamen](https://guia.parfum.com.br/perfumes/metamen.html): masculino, amadeirado aromático, EDT 100 ml
+- [Bois d'Elysees](https://guia.parfum.com.br/perfumes/bois-d-elysees.html): masculino, amadeirado chipre, EDT 100 ml
+- [Nautilus](https://guia.parfum.com.br/perfumes/nautilus.html): masculino, chipre frutado, EDT 100 ml
+- [One Night Las Vegas](https://guia.parfum.com.br/perfumes/one-night-las-vegas.html): masculino, aromático fougère, EDT 100 ml
 
 ## Collection La Petite Fleur
 - [Página da linha](https://guia.parfum.com.br/linhas/la-petite-fleur.html): La Petite Fleur é a linha feminina e delicada da Paris Elysées, com quatro versões.
@@ -111,13 +114,10 @@
 - [Página da linha](https://guia.parfum.com.br/linhas/classicos-masculinos.html): Os clássicos masculinos da Paris Elysées, de aromáticos frescos a amadeirados intensos.
 - [Black Shark](https://guia.parfum.com.br/perfumes/black-shark.html): masculino, âmbar amadeirado, EDT 100 ml
 - [Black is Black](https://guia.parfum.com.br/perfumes/black-is-black.html): masculino, aromático fougère, EDT 100 ml
-- [Bois d'Elysees](https://guia.parfum.com.br/perfumes/bois-d-elysees.html): masculino, amadeirado chipre, EDT 100 ml
 - [Handsome](https://guia.parfum.com.br/perfumes/handsome.html): masculino, chipre amadeirado, EDT 100 ml
 - [Handsome Black](https://guia.parfum.com.br/perfumes/handsome-black.html): masculino, amadeirado aromático, EDT 100 ml
 - [Max](https://guia.parfum.com.br/perfumes/max.html): masculino, âmbar fougère, EDT 100 ml
 - [Max XclusiV](https://guia.parfum.com.br/perfumes/max-xclusiv.html): masculino, âmbar aromático gourmand, EDT 100 ml
-- [Nautilus](https://guia.parfum.com.br/perfumes/nautilus.html): masculino, chipre frutado, EDT 100 ml
 - [Number One](https://guia.parfum.com.br/perfumes/number-one.html): unissex, cítrico aromático, EDT 100 ml
 - [Nyse](https://guia.parfum.com.br/perfumes/nyse.html): masculino, aromático especiado, EDT 100 ml
-- [One Night Las Vegas](https://guia.parfum.com.br/perfumes/one-night-las-vegas.html): masculino, aromático fougère, EDT 100 ml
 - [Y2K](https://guia.parfum.com.br/perfumes/y2k.html): masculino, amadeirado oriental, EDT 100 ml
