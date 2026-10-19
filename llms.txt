@@ -11,6 +11,7 @@
 ## A marca
 - [História da Paris Elysées](https://guia.parfum.com.br/historia-da-marca.html)
 - [Perfumes com maior fixação](https://guia.parfum.com.br/fixacao.html)
+- [Como reconhecer um Paris Elysées original (ANVISA e código de barras de cada perfume)](https://guia.parfum.com.br/original.html)
 - [Fichas completas de todos os perfumes em texto](https://guia.parfum.com.br/llms-full.txt)
 
 ## Na imprensa
