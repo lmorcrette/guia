@@ -8,7 +8,7 @@
 - Linha: Vodka Collection · Gênero: Masculino · Família olfativa: Aquático Amadeirado
 - Concentração: Eau de Toilette (EDT) · linha Intense Parfum · Volume: 100 ml
 - Notas — saída: Toranja, Notas Marinhas; coração: Louro, Madeira Guaiac; fundo: Âmbar, Patchouli
-- Fixação: varia conforme a pele, a hidratação e o clima
+- Fixação relatada por consumidores: entre 3 e 6 horas, conforme a pele
 - Ocasiões: Dia a dia, Trabalho, Encontros, Eventos, Ocasiões especiais
 - ANVISA: cosmético notificado (perfumes são regularizados por notificação, não por registro), processo nº 25351.105633/2014-02
 - EAN: 3454090002975
@@ -22,7 +22,7 @@
 - Linha: Vodka Collection · Gênero: Masculino · Família olfativa: Amadeirado Oriental
 - Concentração: Eau de Toilette (EDT) · linha Intense Parfum · Volume: 100 ml
 - Notas — saída: Limão, Abacaxi, Lavanda, Gálbano; coração: Semente de Cacau, Lírio-do-Vale, Castanha-do-Pará, Notas Herbais; fundo: Sândalo, Cedro, Patchouli
-- Fixação: varia conforme a pele, a hidratação e o clima
+- Fixação relatada por consumidores: entre 4 e 8 horas, conforme a pele
 - Ocasiões: Dia a dia, Trabalho, Encontros, Eventos, Ocasiões especiais
 - ANVISA: cosmético notificado (perfumes são regularizados por notificação, não por registro), processo nº 25351.105631/2014-20
 - EAN: 3454090002968
@@ -48,7 +48,7 @@
 - Linha: Vodka Collection · Gênero: Masculino · Família olfativa: Aromático (aromático amadeirado)
 - Concentração: Eau de Toilette (EDT) · linha Intense Parfum · Volume: 100 ml
 - Notas — saída: Artemísia, Alecrim, Limão; coração: Gerânio, Pinheiro; fundo: Almíscar, Patchouli, Musgo
-- Fixação: varia conforme a pele, a hidratação e o clima
+- Fixação relatada por consumidores: entre 4 e 8 horas, conforme a pele
 - Ocasiões: Dia a dia, Trabalho, Encontros, Eventos, Ocasiões especiais
 - ANVISA: cosmético notificado (perfumes são regularizados por notificação, não por registro), processo nº 25351.608031/2014-08
 - EAN: 3454090001213
@@ -100,7 +100,7 @@
 - Linha: Vodka Collection · Gênero: Masculino · Família olfativa: Amadeirado Aromático
 - Concentração: Eau de Toilette (EDT) · linha Intense Parfum · Volume: 100 ml
 - Notas — saída: Cardamomo, Mandarina; coração: Menta, Pimenta; fundo: Notas Amadeiradas, Notas Atalcadas
-- Fixação: varia conforme a pele, a hidratação e o clima
+- Fixação relatada por consumidores: entre 4 e 6 horas, conforme a pele
 - Ocasiões: Dia a dia, Trabalho, Encontros, Eventos, Ocasiões especiais
 - ANVISA: cosmético notificado (perfumes são regularizados por notificação, não por registro), processo nº 25351.424686/2012-13
 - EAN: 3454090002920
@@ -113,7 +113,7 @@
 - Linha: Vodka Collection · Gênero: Feminino · Família olfativa: Chipre Frutado
 - Concentração: Eau de Toilette (EDT) · linha Intense Parfum · Volume: 100 ml
 - Notas — saída: Limão, Bergamota; coração: Cedro, Violeta; fundo: Baunilha, Almíscar
-- Fixação: varia conforme a pele, a hidratação e o clima
+- Fixação relatada por consumidores: entre 4 e 6 horas, conforme a pele
 - Ocasiões: Dia a dia, Trabalho, Encontros, Eventos, Ocasiões especiais
 - ANVISA: cosmético notificado (perfumes são regularizados por notificação, não por registro), processo nº 25351.424710/2012-14
 - EAN: 3454090002906
@@ -194,7 +194,7 @@
 - Linha: Billion Collection · Gênero: Masculino · Família olfativa: Oriental / Amadeirado
 - Concentração: Eau de Toilette (EDT) · linha Intense Parfum · Volume: 100 ml
 - Notas — saída: Flor de Laranjeira, Bergamota; coração: Lavanda, Noz-moscada, Alecrim, Coentro; fundo: Fava Tonka, Notas Amadeiradas
-- Fixação: varia conforme a pele, a hidratação e o clima
+- Fixação relatada por consumidores: entre 4 e 8 horas, conforme a pele
 - Ocasiões: Noite, Encontros, Festas, Eventos, Ocasiões especiais
 - ANVISA: cosmético notificado (perfumes são regularizados por notificação, não por registro), processo nº 25351.487271/2014-19
 - EAN: 3454090003064
@@ -469,7 +469,7 @@
 - Linha: Signature Collection · Gênero: Feminino · Família olfativa: Floral Oriental
 - Concentração: Eau de Toilette (EDT) · linha Intense Parfum · Volume: 100 ml
 - Notas — saída: Gengibre, Laranja Sanguínea; coração: Tuberosa, Jasmim, Notas Especiadas; fundo: Sândalo, Patchouli, Vetiver
-- Fixação: varia conforme a pele, a hidratação e o clima
+- Fixação relatada por consumidores: entre 3 e 6 horas, conforme a pele
 - Ocasiões: Dia a dia, Trabalho, Encontros, Eventos, Ocasiões especiais
 - ANVISA: cosmético notificado (perfumes são regularizados por notificação, não por registro), processo nº 25351.215853/2024-71
 - EAN: 3454090003438
@@ -690,7 +690,7 @@
 - Linha: Clássicos Femininos · Gênero: Feminino · Família olfativa: Floral Frutado Gourmand
 - Concentração: Eau de Toilette (EDT) · linha Intense Parfum · Volume: 100 ml
 - Notas — saída: Groselha Preta, Morango, Amora, Bergamota, Notas Verdes, Coco; coração: Jasmim, Rosa, Muguet, Orquídea, Mel; fundo: Baunilha, Caramelo, Fava Tonka, Patchouli, Sândalo, Musgo, Âmbar
-- Fixação: varia conforme a pele, a hidratação e o clima
+- Fixação relatada por consumidores: entre 3 e 6 horas, conforme a pele
 - Ocasiões: Noite, Encontros, Festas, Eventos, Ocasiões especiais
 - ANVISA: cosmético notificado (perfumes são regularizados por notificação, não por registro), processo nº 25351.653168/2014-30
 - EAN: 3454090002791
@@ -792,7 +792,7 @@
 - Linha: Clássicos Femininos · Gênero: Feminino · Família olfativa: Floral Oriental (âmbar floral)
 - Concentração: Eau de Toilette (EDT) · linha Intense Parfum · Volume: 100 ml
 - Notas — saída: Bergamota, Cardamomo; coração: Violeta, Alcaçuz; fundo: Sândalo, Patchouli, Almíscar, Baunilha
-- Fixação: varia conforme a pele, a hidratação e o clima
+- Fixação relatada por consumidores: entre 4 e 6 horas, conforme a pele
 - Ocasiões: Dia a dia, Encontros, Noite, Eventos, Ocasiões especiais
 - ANVISA: cosmético notificado (perfumes são regularizados por notificação, não por registro), processo nº 25351.607871/2014-55
 - EAN: 3454090002227
