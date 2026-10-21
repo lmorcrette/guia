@@ -87,3 +87,11 @@ main{padding-bottom:40px}section{margin:44px 0}
 .linebanner{margin:0;border-radius:14px;overflow:hidden;aspect-ratio:16/9;background:#111}.linebanner img{width:100%;height:100%;object-fit:cover;display:block}.linebanner .collage{height:100%}
 @media (max-width:900px){.tiles{grid-template-columns:1fr 1fr}.stats5{grid-template-columns:repeat(3,1fr)}}
 @media (max-width:760px){.tiles,.story,.linehero{grid-template-columns:1fr}.stats5{grid-template-columns:repeat(2,1fr)}.hero2-in{grid-template-columns:1fr;gap:8px;padding-top:28px}.slides{aspect-ratio:3/1}}
+
+figure.editorial{margin:1.2rem 0}figure.editorial img{width:100%;height:auto;border-radius:12px;display:block}
+figure.editorial figcaption{font-size:.75rem;color:var(--muted);margin-top:.35rem}
+.frdna{display:grid;grid-template-columns:repeat(3,1fr);gap:1.2rem}.frdna a{color:inherit;text-decoration:none}
+.frdna figure{margin:0}.frdna img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:12px;display:block}
+.frdna h3{margin:.6rem 0 .25rem}.frdna p{margin:0;font-size:.95rem}
+@media(max-width:760px){.frdna{grid-template-columns:1fr}}
+.estilo{border-left:3px solid var(--gold,#b08d57);padding-left:1rem}
