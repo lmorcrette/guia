@@ -28,5 +28,13 @@ User-agent: Grok-DeepSearch
 Allow: /
 User-agent: Bingbot
 Allow: /
+User-agent: meta-webindexer
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+User-agent: meta-externalfetcher
+Allow: /
+User-agent: facebookexternalhit
+Allow: /
 
 Sitemap: https://guia.parfum.com.br/sitemap.xml
