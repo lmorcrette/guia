@@ -61,8 +61,9 @@ main{padding-bottom:40px}section{margin:44px 0}
 .hero2{background:#0d1426;color:#fff}
 .slides{position:relative;width:100%;aspect-ratio:4/1;max-width:100%;overflow:hidden;background:#0d1426}
 .slide{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;opacity:0;animation:fade 18s infinite}
-.slide.s0{animation-delay:0s}.slide.s1{animation-delay:6s}.slide.s2{animation-delay:12s}
+.slide.s0{opacity:1;animation-name:fade0;animation-delay:0s}.slide.s1{animation-delay:6s}.slide.s2{animation-delay:12s}
 @keyframes fade{0%{opacity:0}4%{opacity:1}33%{opacity:1}38%{opacity:0}100%{opacity:0}}
+@keyframes fade0{0%{opacity:1}33%{opacity:1}38%{opacity:0}96%{opacity:0}100%{opacity:1}}
 @media (prefers-reduced-motion:reduce){.slide{animation:none}.slide.s0{opacity:1}}
 .hero2-in{display:grid;grid-template-columns:1.1fr 1fr;gap:36px;align-items:end;padding-top:40px;padding-bottom:40px}
 .hero2 h1{color:#fff;font-size:clamp(2.4rem,5vw,3.8rem);margin:0}.hero2 h1 span{color:#d9bf86}
