@@ -54,7 +54,7 @@ main{padding-bottom:40px}section{margin:44px 0}
 .btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--ink)}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.chips a{border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 14px;text-decoration:none;font-size:.88rem}
 .linehead{display:flex;align-items:baseline;gap:12px}.linehead h2 a{text-decoration:none}.linehead small{color:var(--muted)}
-.tablewrap{overflow-x:auto}.convite{background:#f7f3ec;border-left:3px solid #d9bf86;padding:10px 14px;font-size:.92rem}.cmp th{width:auto}
+.tablewrap{overflow-x:auto}.destaques .wrap{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding-block:18px}.destaques a{display:flex;flex-direction:column;gap:2px;border:1px solid var(--line);border-radius:10px;padding:12px 16px;text-decoration:none;background:var(--card)}.destaques b{font-family:'Cormorant Garamond',Georgia,serif;font-size:1.25rem;color:var(--ink)}.destaques span{color:var(--muted);font-size:.88rem}@media (max-width:760px){.destaques .wrap{grid-template-columns:1fr}}.quiz{display:grid;gap:14px}.quiz fieldset{border:1px solid var(--line);border-radius:10px;padding:12px 16px;display:flex;flex-wrap:wrap;gap:8px 18px}.quiz legend{font-weight:600;padding:0 6px}.quiz label{display:flex;gap:6px;align-items:center;cursor:pointer}.convite{background:#f7f3ec;border-left:3px solid #d9bf86;padding:10px 14px;font-size:.92rem}.cmp th{width:auto}
 .prod ul,.prod ol{padding-left:20px}
 
 .hero2,.statsbar{margin:0!important}
