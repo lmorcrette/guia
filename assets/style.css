@@ -54,7 +54,7 @@ main{padding-bottom:40px}section{margin:44px 0}
 .btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--ink)}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.chips a{border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 14px;text-decoration:none;font-size:.88rem}
 .linehead{display:flex;align-items:baseline;gap:12px}.linehead h2 a{text-decoration:none}.linehead small{color:var(--muted)}
-.tablewrap{overflow-x:auto}.cmp th{width:auto}
+.tablewrap{overflow-x:auto}.convite{background:#f7f3ec;border-left:3px solid #d9bf86;padding:10px 14px;font-size:.92rem}.cmp th{width:auto}
 .prod ul,.prod ol{padding-left:20px}
 
 .hero2,.statsbar{margin:0!important}
