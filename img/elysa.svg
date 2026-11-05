@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Elysa, assistente virtual da Paris Elysées">
+  <defs>
+    <clipPath id="c"><circle cx="60" cy="60" r="60"/></clipPath>
+    <pattern id="mar" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#fff"/><rect y="0" width="12" height="5" fill="#1f2a4d"/></pattern>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="120" height="120" fill="#f3e6cf"/>
+    <circle cx="96" cy="26" r="30" fill="#e9d3ad"/>
+    <g transform="translate(60 66) scale(1.18) translate(-60 -62)">
+    <!-- cabelo atrás -->
+    <path d="M30 58c-4 22 2 40 8 48h44c6-8 12-26 8-48-4-22-56-22-60 0z" fill="#3b2418"/>
+    <!-- pescoço e roupa -->
+    <path d="M52 82h16v14H52z" fill="#e8b996"/>
+    <path d="M22 120c2-18 16-28 38-28s36 10 38 28z" fill="url(#mar)"/>
+    <path d="M50 92q10 8 20 0" fill="#e8b996"/>
+    <!-- rosto -->
+    <ellipse cx="60" cy="62" rx="20" ry="24" fill="#f2c8a5"/>
+    <!-- franja -->
+    <path d="M38 60c0-20 10-30 22-30s22 10 22 30c-6-10-14-14-22-14s-16 4-22 14z" fill="#3b2418"/>
+    <!-- boina -->
+    <ellipse cx="57" cy="38" rx="29" ry="11" fill="#c8102e" transform="rotate(-10 57 38)"/>
+    <circle cx="66" cy="27" r="3" fill="#a00d24"/>
+    <!-- olhos, bochechas, boca -->
+    <path d="M49 62c2-2 5-2 7 0M64 62c2-2 5-2 7 0" fill="none" stroke="#3b2418" stroke-width="2.2" stroke-linecap="round"/>
+    <circle cx="48" cy="71" r="4" fill="#f0a39a" opacity=".6"/>
+    <circle cx="72" cy="71" r="4" fill="#f0a39a" opacity=".6"/>
+    <path d="M54 76c3 3 9 3 12 0-2 4-10 4-12 0z" fill="#c8102e"/>
+  </g>
+  </g>
+</svg>
