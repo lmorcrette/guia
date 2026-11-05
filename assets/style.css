@@ -1,3 +1,4 @@
+img{max-width:100%;height:auto}
 
 :root{--ink:#14213d;--ink2:#3b4660;--gold:#a8874a;--cream:#faf7f1;--line:#e6dfd2;--card:#fff;--muted:#6b7280}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
@@ -97,3 +98,5 @@ figure.editorial figcaption{font-size:.75rem;color:var(--muted);margin-top:.35re
 .frdna h3{margin:.6rem 0 .25rem}.frdna p{margin:0;font-size:.95rem}
 @media(max-width:760px){.frdna{grid-template-columns:1fr}}
 .estilo{border-left:3px solid var(--gold,#b08d57);padding-left:1rem}
+
+body{padding-bottom:72px}
