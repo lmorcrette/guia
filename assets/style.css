@@ -105,6 +105,7 @@ figure.editorial figcaption{font-size:.75rem;color:var(--muted);margin-top:.35re
 .frdna h3{margin:.6rem 0 .25rem}.frdna p{margin:0;font-size:.95rem}
 @media(max-width:760px){.frdna{grid-template-columns:1fr}}
 .estilo{border-left:3px solid var(--gold,#b08d57);padding-left:1rem}
+ol.ranking{padding-left:1.4rem;line-height:1.9}ol.ranking li::marker{font-weight:700}
 figure.selo{margin:1rem 0;float:right;margin-left:1rem}figure.selo img{width:140px;height:auto;display:block}
 @media(max-width:760px){figure.selo{float:none;margin:1rem auto;text-align:center}figure.selo img{margin:0 auto}}
 
