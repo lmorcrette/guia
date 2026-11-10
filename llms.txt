@@ -101,10 +101,10 @@
 ## Perfumes por nota olfativa
 - [Perfumes Paris Elysées com baunilha](https://guia.parfum.com.br/notas/baunilha.html): 38 perfumes
 - [Perfumes Paris Elysées com âmbar](https://guia.parfum.com.br/notas/ambar.html): 33 perfumes
-- [Perfumes Paris Elysées com almíscar](https://guia.parfum.com.br/notas/almiscar.html): 29 perfumes
-- [Perfumes Paris Elysées com patchouli](https://guia.parfum.com.br/notas/patchouli.html): 29 perfumes
+- [Perfumes Paris Elysées com almíscar](https://guia.parfum.com.br/notas/almiscar.html): 30 perfumes
+- [Perfumes Paris Elysées com patchouli](https://guia.parfum.com.br/notas/patchouli.html): 30 perfumes
 - [Perfumes Paris Elysées com jasmim](https://guia.parfum.com.br/notas/jasmim.html): 38 perfumes
-- [Perfumes Paris Elysées com sândalo](https://guia.parfum.com.br/notas/sandalo.html): 22 perfumes
+- [Perfumes Paris Elysées com sândalo](https://guia.parfum.com.br/notas/sandalo.html): 23 perfumes
 - [Perfumes Paris Elysées com lavanda](https://guia.parfum.com.br/notas/lavanda.html): 19 perfumes
 - [Perfumes Paris Elysées com fava tonka](https://guia.parfum.com.br/notas/fava-tonka.html): 18 perfumes
 - [Perfumes Paris Elysées com flor de laranjeira](https://guia.parfum.com.br/notas/flor-de-laranjeira.html): 20 perfumes
