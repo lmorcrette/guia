@@ -24,7 +24,7 @@ main{padding-bottom:40px}section{margin:44px 0}
 .spec tr:last-child th,.spec tr:last-child td{border-bottom:0}
 .rating{font-size:.95rem}.rating small{color:var(--muted)}
 .btn{display:inline-block;background:var(--ink);color:#fff;text-decoration:none;padding:12px 22px;border-radius:999px;font-weight:600;margin-top:6px}
-.pyr{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.tier{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px}.tier h3{color:var(--gold)}.tier p{margin:0}
+.napratica ul{margin:0;padding-left:20px}.napratica li{margin:0 0 8px;font-size:1.05em}.pyr{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.tier{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px}.tier h3{color:var(--gold)}.tier p{margin:0}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:44px}
 .bars{display:grid;gap:10px}.bar{display:grid;grid-template-columns:100px 1fr 40px;align-items:center;gap:10px;font-size:.92rem}
 .bar i{height:8px;border-radius:9px;background:linear-gradient(90deg,var(--gold) calc(var(--v)*20%),var(--line) 0)}.bar b{font-weight:500;color:var(--ink2)}
