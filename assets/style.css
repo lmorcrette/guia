@@ -62,6 +62,7 @@ main{padding-bottom:40px}section{margin:44px 0}
 .votar{background:#fff;border:1px solid var(--line);border-radius:14px;padding:22px}.votar h2{margin-top:0}
 .estrelas{display:flex;gap:6px;margin:6px 0 10px}.estrelas button{font-size:2rem;line-height:1;background:none;border:0;padding:4px;cursor:pointer;color:#d8d2c4}
 .estrelas button.on,.estrelas:not(:has(button:disabled)) button:hover,.estrelas:not(:has(button:disabled)) button:has(~ button:hover){color:var(--gold)}.estrelas button:disabled{cursor:default}
+.voto-sel{width:100%;max-width:420px;font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--ink)}.sr{position:absolute;left:-9999px}
 .votar .hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}.voto-msg{min-height:1.5em;font-size:1.02rem}.voto-msg .cupom{font-size:1.15rem;letter-spacing:.04em;background:var(--cream);padding:2px 8px;border-radius:6px}
 .voto-est{position:relative;display:inline-block;color:#d8d2c4;letter-spacing:2px}.voto-est::before{content:"★★★★★";position:absolute;left:0;top:0;width:calc(var(--n)*20%);overflow:hidden;color:var(--gold);letter-spacing:2px}
 
